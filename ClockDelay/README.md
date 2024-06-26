@@ -8,7 +8,7 @@
 
 ## Constraints
 
-* $$1 \leq q \leq 1000
+* $$1 \leq q \leq 1000$$
 * $$0 \leq h1 < 23$$
 * $$0 \leq h2 < 24$$
 * $$0 \leq m1, m2 < 60$$
