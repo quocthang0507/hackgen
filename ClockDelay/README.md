@@ -8,13 +8,13 @@
 
 ## Constraints
 
-* 1 ≤ q ≤ 1000
-* 0 ≤ h1 < 23
-* 0 ≤ h2 < 24
-* 0 ≤ m1, m2 < 60
-* 1 ≤ k
-* h1 + k < 24
-* It is guaranteed that h1:m1 is strictly before h2:m2
+* $$1 \leq q \leq 1000
+* $$0 \leq h1 < 23$$
+* $$0 \leq h2 < 24$$
+* $$0 \leq m1, m2 < 60$$
+* $$1 \leq k$$
+* $$h1 + k < 24$$
+* It is guaranteed that $h1:m1$ is strictly before $h2:m2$
 
 ## Output Format
 
